@@ -1,2 +1,3 @@
-# Python-Projects-Portfolio-
-Python Projects 
+# Python-Projects-Portfolio
+
+## Project 1: Bank Customer Classification
